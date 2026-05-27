@@ -1,6 +1,6 @@
-# Orion Source
+# Orion Source Free Font
 
-**Orion Source** is a free, open-source type identity for source-truth work, improbable documentation, creative production systems, and human-readable evidence.
+**Orion Source Free Font** is a free, open-source type identity for source-truth work, improbable documentation, creative production systems, and human-readable evidence.
 
 It began as a font that did not yet exist, generated from the need to make nonlinear work readable.
 
