@@ -1,6 +1,6 @@
-# Orion Source Free Font
+# Orion Source of Truth — Free Font
 
-**Orion Source Free Font** is a free, open-source type identity for source-truth work, improbable documentation, creative production systems, and human-readable evidence.
+**Orion Source of Truth — Free Font** is a free, open-source type identity for source-truth work, improbable documentation, creative production systems, and human-readable evidence.
 
 It began as a font that did not yet exist, generated from the need to make nonlinear work readable.
 
@@ -15,14 +15,14 @@ I’m not crazy. I’m improbable — and increasingly well-documented.
 
 ## Design language
 
-Orion Source is inspired by:
+Orion Source of Truth is inspired by:
 
 - source-truth documentation
 - film leaders and production slates
 - metrology reports
 - Git receipts and SHA-256 hashes
 - NASA-console clarity
-- deep ultramarine / Orion Source Blue
+- deep ultramarine / Orion Source of Truth Blue
 - loyal witness energy from Orion, Greg’s beloved companion
 
 ## Color note
@@ -31,7 +31,7 @@ The early specimen uses a deep ultramarine blue as a respectful visual homage to
 
 This project is not affiliated with, endorsed by, licensed by, or associated with the Yves Klein estate, Archives Yves Klein, or any related rights holders. The color is used as a general digital design direction and should not be understood as an official reproduction of International Klein Blue.
 
-As the project develops, the public color name may become **Orion Source Blue** to keep the work respectful, independent, and clearly original.
+As the project develops, the public color name may become **Orion Source of Truth Blue** to keep the work respectful, independent, and clearly original.
 
 ## License
 
