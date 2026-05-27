@@ -1,0 +1,2 @@
+5edb8ee138ac9636a1c740ee3055ffa51c1c5835354cdf483e5202d268b56627  fonts/OrionSourceTruth.ttf
+17f2c8928de0d8a9bc5c24c9e4a0ea98a9c0d9266c4a9cb3a998bd23e8310a82  fonts/OrionSourceTruth.otf
